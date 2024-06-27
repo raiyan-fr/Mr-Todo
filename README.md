@@ -31,7 +31,7 @@ This project is a simple Todo application built with React. It allows users to a
 
 1. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
